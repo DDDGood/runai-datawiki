@@ -1,0 +1,1 @@
+const r=[{ID:"WildBoar",Name:"野豬王",Character:"WildBoar",MaxTerritoryRange:5,PreferBiomes:["Grassland","Forest"],Graphic:{GraphicType:"Single",SpritePath:"Images/WorldBosses/WildBoar"},TerritorySite:"Territory_Wildboar"}];export{r as default};
