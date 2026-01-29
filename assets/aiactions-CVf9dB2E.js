@@ -1,0 +1,1 @@
+const e=[{ID:"Sample",BaseScore:5},{ID:"SeekAndAttackEnemy",BaseScore:5},{ID:"UseDamageAbility",BaseScore:0,Scorers:[{Function:"CanAbilityReachTarget",Comparison:"==",Value:"true",Score:10}]}];export{e as default};

@@ -1,0 +1,1 @@
+const e=[{ID:"BasicFollower",Actions:[{ID:"Idle",BaseScore:5},{ID:"FollowLeader",BaseScore:0,Scorers:[{Function:"DistanceToLeader",Comparison:">",Value:2,Score:50}]},{ID:"HelpGathering",BaseScore:-10,Scorers:[{Function:"LeaderActionState",Comparison:"==",Value:"Gathering",Score:20}]}]}];export{e as default};
