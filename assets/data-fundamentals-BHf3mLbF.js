@@ -507,8 +507,8 @@ Defs.{資料類型}.{ID}.{欄位名}\r
 \r
 了解基礎概念後，可以查看各資料類型的詳細說明：\r
 \r
-- [物品資料 (Items)](/docs/data-types/items)\r
-- [角色資料 (Characters)](/docs/data-types/characters)\r
-- [配方資料 (Recipes)](/docs/data-types/recipes)\r
-- [場景物件 (SceneObjects)](/docs/data-types/sceneobjects)\r
+- [物品資料 (Items)](#/docs/data-types/items)\r
+- [角色資料 (Characters)](#/docs/data-types/characters)\r
+- [配方資料 (Recipes)](#/docs/data-types/recipes)\r
+- [場景物件 (SceneObjects)](#/docs/data-types/sceneobjects)\r
 `;export{r as default};
