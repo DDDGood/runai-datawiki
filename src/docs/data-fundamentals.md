@@ -507,7 +507,7 @@ Defs.{資料類型}.{ID}.{欄位名}
 
 了解基礎概念後，可以查看各資料類型的詳細說明：
 
-- [物品資料 (Items)](/docs/data-types/items)
-- [角色資料 (Characters)](/docs/data-types/characters)
-- [配方資料 (Recipes)](/docs/data-types/recipes)
-- [場景物件 (SceneObjects)](/docs/data-types/sceneobjects)
+- [物品資料 (Items)](#/docs/data-types/items)
+- [角色資料 (Characters)](#/docs/data-types/characters)
+- [配方資料 (Recipes)](#/docs/data-types/recipes)
+- [場景物件 (SceneObjects)](#/docs/data-types/sceneobjects)
