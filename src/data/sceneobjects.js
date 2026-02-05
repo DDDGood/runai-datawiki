@@ -4716,7 +4716,8 @@ export default [
           "Recipes": [
             "Make_IronAxe",
             "Make_IronPickaxe",
-            "Make_IronArmor",
+            "Make_IronChestplate",
+            "Make_IronLeggings",
             "Make_IronHelmet",
             "Make_IronBattleAxe"
           ],
