@@ -89,11 +89,20 @@ const navigateTo = (type) => {
         </li>
         <li>
           <router-link
+            to="/docs/data-fundamentals"
+            class="flex items-center gap-2 px-3 py-2 rounded-lg transition-colors hover:bg-gray-800"
+          >
+            <span>📐</span>
+            <span>資料定義基礎</span>
+          </router-link>
+        </li>
+        <li>
+          <router-link
             to="/docs/data-types"
             class="flex items-center gap-2 px-3 py-2 rounded-lg transition-colors hover:bg-gray-800"
           >
             <span>📝</span>
-            <span>資料類型說明</span>
+            <span>資料類型總覽</span>
           </router-link>
         </li>
       </ul>

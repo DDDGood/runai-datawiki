@@ -200,13 +200,91 @@ export default [
     "ID": "Seed",
     "Contents": [
       {
+        "Item": "SnowCottonSeed",
+        "AmountMin": 1,
+        "AmountMax": 3,
+        "Weight": 5
+      },
+      {
+        "Item": "TurnipSeed",
+        "AmountMin": 1,
+        "AmountMax": 3,
+        "Weight": 5
+      },
+      {
+        "Item": "CabbageSeed",
+        "AmountMin": 1,
+        "AmountMax": 3,
+        "Weight": 5
+      },
+      {
+        "Item": "BeetSeed",
+        "AmountMin": 1,
+        "AmountMax": 3,
+        "Weight": 5
+      },
+      {
         "Item": "CarrotSeed",
         "AmountMin": 1,
         "AmountMax": 3,
         "Weight": 5
       },
       {
+        "Item": "WheatSeed",
+        "AmountMin": 1,
+        "AmountMax": 3,
+        "Weight": 5
+      },
+      {
+        "Item": "CottonSeed",
+        "AmountMin": 1,
+        "AmountMax": 3,
+        "Weight": 5
+      },
+      {
+        "Item": "CoffeaSeed",
+        "AmountMin": 1,
+        "AmountMax": 3,
+        "Weight": 5
+      },
+      {
+        "Item": "GarlicSeed",
+        "AmountMin": 1,
+        "AmountMax": 3,
+        "Weight": 5
+      },
+      {
         "Item": "PotatoSeed",
+        "AmountMin": 1,
+        "AmountMax": 3,
+        "Weight": 5
+      },
+      {
+        "Item": "PumpkinSeed",
+        "AmountMin": 1,
+        "AmountMax": 3,
+        "Weight": 5
+      },
+      {
+        "Item": "RedBerriesSeed",
+        "AmountMin": 1,
+        "AmountMax": 3,
+        "Weight": 5
+      },
+      {
+        "Item": "RoseSeed",
+        "AmountMin": 1,
+        "AmountMax": 3,
+        "Weight": 5
+      },
+      {
+        "Item": "SugarcaneSeed",
+        "AmountMin": 1,
+        "AmountMax": 3,
+        "Weight": 5
+      },
+      {
+        "Item": "SunflowerSeed",
         "AmountMin": 1,
         "AmountMax": 3,
         "Weight": 5
@@ -223,13 +301,91 @@ export default [
     "ID": "Crop",
     "Contents": [
       {
+        "Item": "SnowCottonTree",
+        "AmountMin": 1,
+        "AmountMax": 3,
+        "Weight": 5
+      },
+      {
+        "Item": "Turnip",
+        "AmountMin": 1,
+        "AmountMax": 3,
+        "Weight": 5
+      },
+      {
+        "Item": "Cabbage",
+        "AmountMin": 1,
+        "AmountMax": 3,
+        "Weight": 5
+      },
+      {
+        "Item": "Beet",
+        "AmountMin": 1,
+        "AmountMax": 3,
+        "Weight": 5
+      },
+      {
         "Item": "Carrot",
         "AmountMin": 1,
         "AmountMax": 3,
         "Weight": 5
       },
       {
+        "Item": "Wheat",
+        "AmountMin": 1,
+        "AmountMax": 3,
+        "Weight": 5
+      },
+      {
+        "Item": "Cotton",
+        "AmountMin": 1,
+        "AmountMax": 3,
+        "Weight": 5
+      },
+      {
+        "Item": "Coffea",
+        "AmountMin": 1,
+        "AmountMax": 3,
+        "Weight": 5
+      },
+      {
+        "Item": "Garlic",
+        "AmountMin": 1,
+        "AmountMax": 3,
+        "Weight": 5
+      },
+      {
         "Item": "Potato",
+        "AmountMin": 1,
+        "AmountMax": 3,
+        "Weight": 5
+      },
+      {
+        "Item": "Pumpkin",
+        "AmountMin": 1,
+        "AmountMax": 3,
+        "Weight": 5
+      },
+      {
+        "Item": "RedBerries",
+        "AmountMin": 1,
+        "AmountMax": 3,
+        "Weight": 5
+      },
+      {
+        "Item": "Rose",
+        "AmountMin": 1,
+        "AmountMax": 3,
+        "Weight": 5
+      },
+      {
+        "Item": "Sugarcane",
+        "AmountMin": 1,
+        "AmountMax": 3,
+        "Weight": 5
+      },
+      {
+        "Item": "Sunflower",
         "AmountMin": 1,
         "AmountMax": 3,
         "Weight": 5

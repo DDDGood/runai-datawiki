@@ -53,7 +53,8 @@ Assets/StreamingAssets/\r
 \r
 ## 下一步\r
 \r
-- [物品資料說明](/docs/data-types/items)\r
-- [角色資料說明](/docs/data-types/characters)\r
-- [配方資料說明](/docs/data-types/recipes)\r
+- [資料定義基礎](#/docs/data-fundamentals) - **建議先讀！** 了解 ID、Parent 繼承、Inherit 陣列繼承等核心概念\r
+- [物品資料說明](#/docs/data-types/items)\r
+- [角色資料說明](#/docs/data-types/characters)\r
+- [配方資料說明](#/docs/data-types/recipes)\r
 `;export{n as default};
